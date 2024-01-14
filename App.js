@@ -8,7 +8,7 @@ export default function App() {
           <Text style={styles.boldText}>Hello, World!</Text>
       </View>
       <View style={styles.body}>
-        <Text>lorem ipsum kella menau ssid</Text>
+        <Text>lorem ipsum kell menau ssid</Text>
         <Text>lorem ipsum kella menau ssid</Text>
         <Text>lorem ipsum kella menau ssid</Text>
       </View>
